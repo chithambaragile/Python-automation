@@ -1,0 +1,3 @@
+HTTP response code is 200 - OK
+Page load time: 8.591033220291138 seconds
+URL of the new page: https://atg.party/view-article/72965/test-article-title?r=83
